@@ -1,0 +1,733 @@
+.flag-icon {
+	background-size: contain;
+	background-position: 50%;
+	background-repeat: no-repeat;
+	position: relative;
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+}
+.flag-icon:before {
+	content: "\00a0";
+}
+
+.flag-icon-af {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AF_t=1.svg);
+}
+.flag-icon-al {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AL_t=1.svg);
+}
+.flag-icon-dz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/DZ_t=1.svg);
+}
+.flag-icon-as {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AS_t=1.svg);
+}
+.flag-icon-ad {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AD_t=1.svg);
+}
+.flag-icon-ao {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AO_t=1.svg);
+}
+.flag-icon-ai {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AI_t=1.svg);
+}
+.flag-icon-aq {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AQ_t=1.svg);
+}
+.flag-icon-ag {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AG_t=1.svg);
+}
+.flag-icon-ar {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AR_t=1.svg);
+}
+.flag-icon-am {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AM_t=1.svg);
+}
+.flag-icon-aw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AW_t=1.svg);
+}
+.flag-icon-au {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AU_t=1.svg);
+}
+.flag-icon-at {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AT_t=1.svg);
+}
+.flag-icon-az {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AZ_t=1.svg);
+}
+.flag-icon-bs {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BS_t=1.svg);
+}
+.flag-icon-bh {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BH_t=1.svg);
+}
+.flag-icon-bd {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BD_t=1.svg);
+}
+.flag-icon-bb {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BB_t=1.svg);
+}
+.flag-icon-by {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BY_t=1.svg);
+}
+.flag-icon-be {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BE_t=1.svg);
+}
+.flag-icon-bz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BZ_t=1.svg);
+}
+.flag-icon-bj {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BJ_t=1.svg);
+}
+.flag-icon-bm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BM_t=1.svg);
+}
+.flag-icon-bt {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BT_t=1.svg);
+}
+.flag-icon-bo {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BO_t=1.svg);
+}
+.flag-icon-ba {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BA_t=1.svg);
+}
+.flag-icon-bw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BW_t=1.svg);
+}
+.flag-icon-br {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BR_t=1.svg);
+}
+.flag-icon-io {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IO_t=1.svg);
+}
+.flag-icon-vg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/VG_t=1.svg);
+}
+.flag-icon-bn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BN_t=1.svg);
+}
+.flag-icon-bg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BG_t=1.svg);
+}
+.flag-icon-bf {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BF_t=1.svg);
+}
+.flag-icon-bi {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BI_t=1.svg);
+}
+.flag-icon-kh {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KH_t=1.svg);
+}
+.flag-icon-cm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CM_t=1.svg);
+}
+.flag-icon-ca {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CA_t=1.svg);
+}
+.flag-icon-cv {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CV_t=1.svg);
+}
+.flag-icon-ky {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KY_t=1.svg);
+}
+.flag-icon-cf {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CF_t=1.svg);
+}
+.flag-icon-td {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TD_t=1.svg);
+}
+.flag-icon-cl {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CL_t=1.svg);
+}
+.flag-icon-cn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CN_t=1.svg);
+}
+.flag-icon-cx {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CX_t=1.svg);
+}
+.flag-icon-cc {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CC_t=1.svg);
+}
+.flag-icon-co {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CO_t=1.svg);
+}
+.flag-icon-km {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KM_t=1.svg);
+}
+.flag-icon-ck {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CK_t=1.svg);
+}
+.flag-icon-cr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CR_t=1.svg);
+}
+.flag-icon-hr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/HR_t=1.svg);
+}
+.flag-icon-cu {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CU_t=1.svg);
+}
+.flag-icon-cw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CW_t=1.svg);
+}
+.flag-icon-cy {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CY_t=1.svg);
+}
+.flag-icon-cz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CZ_t=1.svg);
+}
+.flag-icon-cd {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CD_t=1.svg);
+}
+.flag-icon-dk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/DK_t=1.svg);
+}
+.flag-icon-dj {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/DJ_t=1.svg);
+}
+.flag-icon-dm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/DM_t=1.svg);
+}
+.flag-icon-do {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/DO_t=1.svg);
+}
+.flag-icon-tl {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TL_t=1.svg);
+}
+.flag-icon-ec {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/EC_t=1.svg);
+}
+.flag-icon-eg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/EG_t=1.svg);
+}
+.flag-icon-sv {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SV_t=1.svg);
+}
+.flag-icon-gq {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GQ_t=1.svg);
+}
+.flag-icon-er {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ER_t=1.svg);
+}
+.flag-icon-ee {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/EE_t=1.svg);
+}
+.flag-icon-et {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ET_t=1.svg);
+}
+.flag-icon-fk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/FK_t=1.svg);
+}
+.flag-icon-fo {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/FO_t=1.svg);
+}
+.flag-icon-fj {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/FJ_t=1.svg);
+}
+.flag-icon-fi {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/FI_t=1.svg);
+}
+.flag-icon-fr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/FR_t=1.svg);
+}
+.flag-icon-pf {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PF_t=1.svg);
+}
+.flag-icon-ga {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GA_t=1.svg);
+}
+.flag-icon-gm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GM_t=1.svg);
+}
+.flag-icon-ge {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GE_t=1.svg);
+}
+.flag-icon-de {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/DE_t=1.svg);
+}
+.flag-icon-gh {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GH_t=1.svg);
+}
+.flag-icon-gi {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GI_t=1.svg);
+}
+.flag-icon-gr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GR_t=1.svg);
+}
+.flag-icon-gl {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GL_t=1.svg);
+}
+.flag-icon-gd {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GD_t=1.svg);
+}
+.flag-icon-gu {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GU_t=1.svg);
+}
+.flag-icon-gt {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GT_t=1.svg);
+}
+.flag-icon-gg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GG_t=1.svg);
+}
+.flag-icon-gn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GN_t=1.svg);
+}
+.flag-icon-gw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GW_t=1.svg);
+}
+.flag-icon-gy {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GY_t=1.svg);
+}
+.flag-icon-ht {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/HT_t=1.svg);
+}
+.flag-icon-hn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/HN_t=1.svg);
+}
+.flag-icon-hk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/HK_t=1.svg);
+}
+.flag-icon-hu {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/HU_t=1.svg);
+}
+.flag-icon-is {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IS_t=1.svg);
+}
+.flag-icon-in {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IN_t=1.svg);
+}
+.flag-icon-id {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ID_t=1.svg);
+}
+.flag-icon-ir {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IR_t=1.svg);
+}
+.flag-icon-iq {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IQ_t=1.svg);
+}
+.flag-icon-ie {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IE_t=1.svg);
+}
+.flag-icon-im {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IM_t=1.svg);
+}
+.flag-icon-il {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IL_t=1.svg);
+}
+.flag-icon-it {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/IT_t=1.svg);
+}
+.flag-icon-ci {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CI_t=1.svg);
+}
+.flag-icon-jm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/JM_t=1.svg);
+}
+.flag-icon-jp {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/JP_t=1.svg);
+}
+.flag-icon-je {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/JE_t=1.svg);
+}
+.flag-icon-jo {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/JO_t=1.svg);
+}
+.flag-icon-kz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KZ_t=1.svg);
+}
+.flag-icon-ke {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KE_t=1.svg);
+}
+.flag-icon-ki {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KI_t=1.svg);
+}
+.flag-icon-xk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/XK_t=1.svg);
+}
+.flag-icon-kw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KW_t=1.svg);
+}
+.flag-icon-kg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KG_t=1.svg);
+}
+.flag-icon-la {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LA_t=1.svg);
+}
+.flag-icon-lv {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LV_t=1.svg);
+}
+.flag-icon-lb {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LB_t=1.svg);
+}
+.flag-icon-ls {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LS_t=1.svg);
+}
+.flag-icon-lr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LR_t=1.svg);
+}
+.flag-icon-ly {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LY_t=1.svg);
+}
+.flag-icon-li {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LI_t=1.svg);
+}
+.flag-icon-lt {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LT_t=1.svg);
+}
+.flag-icon-lu {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LU_t=1.svg);
+}
+.flag-icon-mo {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MO_t=1.svg);
+}
+.flag-icon-mk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MK_t=1.svg);
+}
+.flag-icon-mg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MG_t=1.svg);
+}
+.flag-icon-mw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MW_t=1.svg);
+}
+.flag-icon-my {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MY_t=1.svg);
+}
+.flag-icon-mv {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MV_t=1.svg);
+}
+.flag-icon-ml {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ML_t=1.svg);
+}
+.flag-icon-mt {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MT_t=1.svg);
+}
+.flag-icon-mh {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MH_t=1.svg);
+}
+.flag-icon-mr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MR_t=1.svg);
+}
+.flag-icon-mu {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MU_t=1.svg);
+}
+.flag-icon-yt {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/YT_t=1.svg);
+}
+.flag-icon-mx {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MX_t=1.svg);
+}
+.flag-icon-fm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/FM_t=1.svg);
+}
+.flag-icon-md {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MD_t=1.svg);
+}
+.flag-icon-mc {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MC_t=1.svg);
+}
+.flag-icon-mn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MN_t=1.svg);
+}
+.flag-icon-me {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ME_t=1.svg);
+}
+.flag-icon-ms {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MS_t=1.svg);
+}
+.flag-icon-ma {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MA_t=1.svg);
+}
+.flag-icon-mz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MZ_t=1.svg);
+}
+.flag-icon-mm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MM_t=1.svg);
+}
+.flag-icon-na {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NA_t=1.svg);
+}
+.flag-icon-nr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NR_t=1.svg);
+}
+.flag-icon-np {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NP_t=1.svg);
+}
+.flag-icon-nl {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NL_t=1.svg);
+}
+.flag-icon-an {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AN_t=1.svg);
+}
+.flag-icon-nc {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NC_t=1.svg);
+}
+.flag-icon-nz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NZ_t=1.svg);
+}
+.flag-icon-ni {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NI_t=1.svg);
+}
+.flag-icon-ne {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NE_t=1.svg);
+}
+.flag-icon-ng {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NG_t=1.svg);
+}
+.flag-icon-nu {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NU_t=1.svg);
+}
+.flag-icon-kp {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KP_t=1.svg);
+}
+.flag-icon-mp {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MP_t=1.svg);
+}
+.flag-icon-no {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/NO_t=1.svg);
+}
+.flag-icon-om {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/OM_t=1.svg);
+}
+.flag-icon-pk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PK_t=1.svg);
+}
+.flag-icon-pw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PW_t=1.svg);
+}
+.flag-icon-ps {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PS_t=1.svg);
+}
+.flag-icon-pa {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PA_t=1.svg);
+}
+.flag-icon-pg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PG_t=1.svg);
+}
+.flag-icon-py {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PY_t=1.svg);
+}
+.flag-icon-pe {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PE_t=1.svg);
+}
+.flag-icon-ph {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PH_t=1.svg);
+}
+.flag-icon-pn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PN_t=1.svg);
+}
+.flag-icon-pl {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PL_t=1.svg);
+}
+.flag-icon-pt {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PT_t=1.svg);
+}
+.flag-icon-pr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PR_t=1.svg);
+}
+.flag-icon-qa {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/QA_t=1.svg);
+}
+.flag-icon-cg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CG_t=1.svg);
+}
+.flag-icon-re {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/RE_t=1.svg);
+}
+.flag-icon-ro {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/RO_t=1.svg);
+}
+.flag-icon-ru {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/RU_t=1.svg);
+}
+.flag-icon-rw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/RW_t=1.svg);
+}
+.flag-icon-bl {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/BL_t=1.svg);
+}
+.flag-icon-sh {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SH_t=1.svg);
+}
+.flag-icon-kn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KN_t=1.svg);
+}
+.flag-icon-lc {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LC_t=1.svg);
+}
+.flag-icon-mf {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/MF_t=1.svg);
+}
+.flag-icon-pm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/PM_t=1.svg);
+}
+.flag-icon-vc {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/VC_t=1.svg);
+}
+.flag-icon-ws {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/WS_t=1.svg);
+}
+.flag-icon-sm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SM_t=1.svg);
+}
+.flag-icon-st {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ST_t=1.svg);
+}
+.flag-icon-sa {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SA_t=1.svg);
+}
+.flag-icon-sn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SN_t=1.svg);
+}
+.flag-icon-rs {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/RS_t=1.svg);
+}
+.flag-icon-sc {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SC_t=1.svg);
+}
+.flag-icon-sl {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SL_t=1.svg);
+}
+.flag-icon-sg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SG_t=1.svg);
+}
+.flag-icon-sx {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SX_t=1.svg);
+}
+.flag-icon-sk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SK_t=1.svg);
+}
+.flag-icon-si {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SI_t=1.svg);
+}
+.flag-icon-sb {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SB_t=1.svg);
+}
+.flag-icon-so {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SO_t=1.svg);
+}
+.flag-icon-za {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ZA_t=1.svg);
+}
+.flag-icon-kr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/KR_t=1.svg);
+}
+.flag-icon-ss {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SS_t=1.svg);
+}
+.flag-icon-es {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ES_t=1.svg);
+}
+.flag-icon-lk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/LK_t=1.svg);
+}
+.flag-icon-sd {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SD_t=1.svg);
+}
+.flag-icon-sr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SR_t=1.svg);
+}
+.flag-icon-sj {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SJ_t=1.svg);
+}
+.flag-icon-sz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SZ_t=1.svg);
+}
+.flag-icon-se {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SE_t=1.svg);
+}
+.flag-icon-ch {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/CH_t=1.svg);
+}
+.flag-icon-sy {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/SY_t=1.svg);
+}
+.flag-icon-tw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TW_t=1.svg);
+}
+.flag-icon-tj {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TJ_t=1.svg);
+}
+.flag-icon-tz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TZ_t=1.svg);
+}
+.flag-icon-th {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TH_t=1.svg);
+}
+.flag-icon-tg {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TG_t=1.svg);
+}
+.flag-icon-tk {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TK_t=1.svg);
+}
+.flag-icon-to {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TO_t=1.svg);
+}
+.flag-icon-tt {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TT_t=1.svg);
+}
+.flag-icon-tn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TN_t=1.svg);
+}
+.flag-icon-tr {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TR_t=1.svg);
+}
+.flag-icon-tm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TM_t=1.svg);
+}
+.flag-icon-tc {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TC_t=1.svg);
+}
+.flag-icon-tv {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/TV_t=1.svg);
+}
+.flag-icon-vi {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/VI_t=1.svg);
+}
+.flag-icon-ug {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/UG_t=1.svg);
+}
+.flag-icon-ua {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/UA_t=1.svg);
+}
+.flag-icon-ae {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/AE_t=1.svg);
+}
+.flag-icon-gb {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/GB_t=1.svg);
+}
+.flag-icon-us {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/US_t=1.svg);
+}
+.flag-icon-uy {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/UY_t=1.svg);
+}
+.flag-icon-uz {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/UZ_t=1.svg);
+}
+.flag-icon-vu {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/VU_t=1.svg);
+}
+.flag-icon-va {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/VA_t=1.svg);
+}
+.flag-icon-ve {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/VE_t=1.svg);
+}
+.flag-icon-vn {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/VN_t=1.svg);
+}
+.flag-icon-wf {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/WF_t=1.svg);
+}
+.flag-icon-eh {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/EH_t=1.svg);
+}
+.flag-icon-ye {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/YE_t=1.svg);
+}
+.flag-icon-zm {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ZM_t=1.svg);
+}
+.flag-icon-zw {
+	background-image: url(../../assets.krunker.io/img/flags/3x2/ZW_t=1.svg);
+}
